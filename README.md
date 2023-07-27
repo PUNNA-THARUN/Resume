@@ -1,118 +1,113 @@
-# Resume
+<!-- Header -->
+<h1 align="center">PUNNA THARUN</h1>
+<p align="center">
+  <a href="tel:+919182557765"><img src="https://img.shields.io/badge/Phone-+91 9182557765-success"></a>
+  <a href="mailto:tharunpunna@gmail.com"><img src="https://img.shields.io/badge/Email-tharunpunna%40gmail.com-informational"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?style=social"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+</p>
 
-<!DOCTYPE html>
-<html lang="en">
+<!-- Profile Summary -->
+<h3>About Me</h3>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Resume | Punna Tharun</title>
+I am a passionate Data Scientist with experience in Python, Data Analysis, and Machine Learning. I enjoy turning data into actionable insights and building meaningful solutions.
 
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+<!-- Education -->
+<h3>Education</h3>
 
-  <!-- Custom CSS -->
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+- **EdYoda Digital University**
+  - *Certification | Data Science and Analyst Programme.*
+  - Relevant coursework: Python, Data Analysis, Data Visualization, Machine Learning (ML).
 
-<body>
-  <div class="container mt-4">
-    <div class="header">
-      <h1 class="name">PUNNA THARUN</h1>
-      <p class="address">H.No. 8-5-278, Road No.2, Shubhodaya colony, Karmanghat, Hyderabad, 500079.</p>
-      <p class="contact">Ph: +91 9182557765 | E-mail: tharunpunna@gmail.com | GitHub | LinkedIn</p>
-    </div>
+- **Manipal Academy of Higher Education, Manipal**
+  - *PGDBM | Analytics, Banking, Business, and Management.*
+  - Relevant coursework: Data Analytics, Banking, Accounting, Finance, and Trade Analysis.
 
-    <div class="section">
-      <h2>EDUCATION</h2>
-      <div class="section-body">
-        <p>
-          <strong>EdYoda Digital University</strong><br>
-          10/2022 – 04/2023<br>
-          Certification | Data Science and Analyst Programme.
-        </p>
-        <ul>
-          <li>Relevant coursework: Python, Data Analysis, Data Visualisation, Machine Learning (ML).</li>
-        </ul>
+- **Jawaharlal Nehru Technological University, Hyderabad**
+  - *B-TECH | Mechanical Engineering.*
+  - Relevant coursework: Mathematics, Statistics, Engineering.
 
-        <p>
-          <strong>Manipal Academy of Higher Education, Manipal</strong><br>
-          11/2020 – 07/2021<br>
-          PGDBM | Analytics, Banking, Business and Management
-        </p>
-        <ul>
-          <li>Relevant coursework: Data Analytics, Banking, Accounting, Finance and Trade analysis.</li>
-        </ul>
+<!-- Professional Experience -->
+<h3>Professional Experience</h3>
 
-        <p>
-          <strong>Jawaharlal Nehru Technological University, Hyderabad</strong><br>
-          06/2014 – 05/2018<br>
-          B-TECH | Mechanical Engineering.
-        </p>
-        <ul>
-          <li>Relevant coursework: Mathematics, Statistics, Engineering.</li>
-        </ul>
-      </div>
-    </div>
+<details>
+  <summary><b>Data Science Intern | Code clause, Hyderabad | 06/2023 – 07/2023</b></summary>
+  <ul>
+    <li>Developed and implemented machine learning models for data analysis.</li>
+    <li>Conducted EDA to identify patterns and correlations in large datasets.</li>
+    <li>Proficient in Python for data manipulation and analysis.</li>
+    <li>Utilized data visualization tools like Tableau and Matplotlib.</li>
+  </ul>
+</details>
 
-    <div class="section">
-      <h2>PROFESSIONAL EXPERIENCE</h2>
-      <div class="section-body">
-        <p>
-          <strong>Data Science Intern</strong><br>
-          06/2023 – 07/2023<br>
-          Code clause, Hyderabad
-        </p>
-        <ul>
-          <li>Developed and implemented machine learning models for data analysis.</li>
-          <li>Conducted EDA to identify patterns and correlations in large datasets.</li>
-          <li>Proficient in Python for data manipulation and analysis.</li>
-          <li>Utilized data visualization tools like Tableau and Matplotlib.</li>
-        </ul>
+<details>
+  <summary><b>Data Science Intern | The Sparks Foundation, Hyderabad | 04/2023 – 05/2023</b></summary>
+  <ul>
+    <li>Contributed to the development of machine learning models using Python.</li>
+    <li>Assisted in data pre-processing and cleaning for accurate analysis.</li>
+    <li>Conducted EDA and utilized data visualization tools like PowerBI and Seaborn.</li>
+  </ul>
+</details>
 
-        <p>
-          <strong>Data Science Intern</strong><br>
-          04/2023 – 05/2023<br>
-          The Sparks Foundation, Hyderabad
-        </p>
-        <ul>
-          <li>Contributed to the development of machine learning models using Python.</li>
-          <li>Assisted in data pre-processing and cleaning for accurate analysis.</li>
-          <li>Conducted EDA and utilized data visualization tools like PowerBI and Seaborn.</li>
-        </ul>
+<details>
+  <summary><b>Deputy Manager-I | ICICI Bank Ltd, Khammam | 07/2021 – 09/2022</b></summary>
+  <ul>
+    <li>Data processing, data cleaning, data transformation, data analysis, data visualization, analytical policy.</li>
+    <li>Flexible schedule, strong track record meeting Turnaround Time (TAT) for task completion.</li>
+    <li>Proficient in analyzing unsecured lending data with strong analytical and decision-making skills.</li>
+    <li>Quick learner, adept at adapting to changes, excellent prioritization, and time management.</li>
+    <li>Leveraging data analytics to build relationships and communicate insights effectively.</li>
+    <li>Excellent communication and networking skills, an asset for any data analytics team.</li>
+  </ul>
+</details>
 
-        <p>
-          <strong>Deputy Manager-I</strong><br>
-          07/2021 – 09/2022<br>
-          ICICI Bank Ltd, Khammam
-        </p>
-        <ul>
-          <li>Data processing, data cleaning, data transformation, data analysis, data visualization, analytical policy.</li>
-          <li>Flexible schedule, strong track record meeting Turnaround Time (TAT) for task completion.</li>
-          <li>Proficient in analyzing unsecured lending data with strong analytical and decision-making skills.</li>
-          <li>Quick learner, adept at adapting to changes, excellent prioritization, and time management.</li>
-          <li>Leveraging data analytics to build relationships and communicate insights effectively.</li>
-          <li>Excellent communication and networking skills, an asset for any data analytics team.</li>
-        </ul>
-      </div>
-    </div>
+<!-- Certifications & Virtual Internships -->
+<h3>Certifications & Virtual Internships</h3>
 
-    <!-- Add other sections (CERTIFICATIONS & VIRTUAL INTERNSHIPS, PROJECTS, SKILLS, LANGUAGES, ACHIEVEMENTS & AWARDS,
-    INTERESTS) following the same structure as above -->
+- Microsoft Data Science Challenge: Utilized Jupyter Notebook and Azure ML.
+- Python Gold Badge: Earned gold badge in Hackerrank for Python.
+- KPMG Virtual Internship: Conducted data quality assessment and insights using PowerBI.
+- Tata Data Visualization: Developed skills in data visualization using Power BI.
+- PWC Visual Case Experience: Utilized customer demographics for visualizations.
+- BCG Data Science & Analytics Virtual Experience Program: Conducted EDA and predictive modelling.
+- Advanced Excel Certification.
+- Google Analytics-4 Certification.
 
-  </div>
+<!-- Projects -->
+<h3>Projects</h3>
 
-  <!-- Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
-    crossorigin="anonymous"></script>
-</body>
+- Food Ordering App: Developed Python-based app with admin and user login.
+- Spam Detection Analysis: Developed Python project for email classification.
+- Nutrition and Obesity Data Analysis: Explored correlations using Python.
+- IPL Data Analysis: Analyzed cricket match outcomes using Python.
 
-</html>
+<!-- Skills -->
+<h3>Skills</h3>
+
+- **Programming Languages:** Python, SQL
+- **Libraries:** NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly, Sklearn, Beautiful Soup, PyTorch.
+- **Data Processing:** ETL, EDA, CRUD.
+- **Databases:** MySQL, MongoDB
+- **Visualization Tools:** Power BI, Tableau, Advanced MS Excel, LibreOffice.
+- **Tools:** MS Office, PowerPoint, Word, Power Query, DAX, VBA.
+- **Soft Skills:** Communication skills, Problem Solving, Team player, Professional Emails, Good listening and comprehension skills, Interpersonal, Quantitative and Analytical Skills, Leadership, Client management, Partnership building, Multi-Tasking.
+
+<!-- Languages -->
+<h3>Languages</h3>
+
+- English
+- Telugu
+- Hindi
+
+<!-- Achievements & Awards -->
+<h3>Achievements & Awards</h3>
+
+- Awarded as best Employee in ICICI Bank.
+- Upgraded my team from old paper method to digital application.
+
+<!-- Interests -->
+<h3>Interests</h3>
+
+- Learning new things in everyday life.
+- Story writings.
+- Viewing business insights.
