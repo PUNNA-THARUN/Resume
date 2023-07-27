@@ -3,8 +3,8 @@
 <p align="center">
   <a href="tel:+919182557765"><img src="https://img.shields.io/badge/Phone-+91 9182557765-success"></a>
   <a href="mailto:tharunpunna@gmail.com"><img src="https://img.shields.io/badge/Email-tharunpunna%40gmail.com-informational"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?style=social"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="https://github.com/punna-tharun"><img src="https://img.shields.io/badge/-Punna%20Tharun-grey?logo=github&logoColor=white&link=https://github.com/PUNNA-THARUN"></a>
+  <a href="https://www.linkedin.com/in/punna-tharun"><img src="https://img.shields.io/badge/-Punna%20Tharun-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/punna-tharun/"></a>
 </p>
 
 <!-- Profile Summary -->
